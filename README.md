@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil :blue_heart
 
-<!--
-**jo7jo/jo7jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é josue neves
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo :mailbox
+
+00001116019474sp@al.educacao.sp.gov.br
+
+@Jo7jo 
+
+![](https://th.bing.com/th/id/OIP._iSsJuRwsPTKe2jOR4yirgHaHa?rs=1&pid=ImgDetMain)
